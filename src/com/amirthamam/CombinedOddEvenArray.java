@@ -25,6 +25,10 @@ else {
 	}
 System.out.println("even numbers are : "+Arrays.toString(b));
 System.out.println("Odd numbers are : "+Arrays.toString(c));
+System.out.println("goodevening dhamo");
+System.out.println("new line");
+
+
 }
 }
 	
